@@ -2,3 +2,5 @@ streamlit
 PyMuPDF
 transformers
 torch
+openai
+python-dotenv
